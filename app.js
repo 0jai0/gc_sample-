@@ -4,7 +4,7 @@ const app = express();
 
 
 // set server Port
-const PORT=8080;
+const PORT=5000;
 
 //  import the dotenv module
 require('dotenv').config();
